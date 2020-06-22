@@ -1,0 +1,7 @@
+.app {
+  display: flex;
+  flex-direction: rows;
+  align-items: center;
+  font-family: sans-serif;
+  text-align: center;
+}
